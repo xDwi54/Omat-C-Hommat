@@ -1,0 +1,10 @@
+C:\Users\Ibrahimit\source\repos\Oma projekti 2\bin\Debug\Oma projekti 2.exe.config
+C:\Users\Ibrahimit\source\repos\Oma projekti 2\bin\Debug\Oma projekti 2.exe
+C:\Users\Ibrahimit\source\repos\Oma projekti 2\bin\Debug\Oma projekti 2.pdb
+C:\Users\Ibrahimit\source\repos\Oma projekti 2\obj\Debug\Oma projekti 2.csprojAssemblyReference.cache
+C:\Users\Ibrahimit\source\repos\Oma projekti 2\obj\Debug\Oma_projekti_2.Form1.resources
+C:\Users\Ibrahimit\source\repos\Oma projekti 2\obj\Debug\Oma_projekti_2.Properties.Resources.resources
+C:\Users\Ibrahimit\source\repos\Oma projekti 2\obj\Debug\Oma projekti 2.csproj.GenerateResource.cache
+C:\Users\Ibrahimit\source\repos\Oma projekti 2\obj\Debug\Oma projekti 2.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahimit\source\repos\Oma projekti 2\obj\Debug\Oma projekti 2.exe
+C:\Users\Ibrahimit\source\repos\Oma projekti 2\obj\Debug\Oma projekti 2.pdb
